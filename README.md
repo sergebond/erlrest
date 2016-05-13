@@ -1,7 +1,7 @@
 # erlyrest
 
-**instalation
+** instalation
 
-**features
+** features
 
-**example
+** example
