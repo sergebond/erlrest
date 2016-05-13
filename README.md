@@ -8,6 +8,5 @@ A wrapper over cowboy webserver, simplifies the development of rest api
   - built-in workflow, that allows you to create buisness logic by passing functions as parameters to erlyrest.
 
 You can also:
-  - Import and save files from GitHub, Dropbox, Google Drive and One Drive
-  - Drag and drop files into Dillinger
-  - Export documents as Markdown, HTML and PDF
+  - interrupt your function flow at any place and response on http request by calling *erlyrest:reply/2*  (non functional style, but can be useful in some cases)
+  - 
