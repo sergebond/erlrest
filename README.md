@@ -1,5 +1,5 @@
 # erlyrest
-A wrapper over cowboy web server, simplifies the development of rest api
+A wrapper over cowboy webserver, simplifies the development of rest api
 #### features
   - simplifies start of http listeners. You don't need to start cowboy and its dependencies obviously (all incapsulated)
   - provides several built-in validating features: *ip whitelist filter, basic auth, alowed methods*
