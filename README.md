@@ -1,4 +1,4 @@
 # erlyrest
-instalation
-features
-example
+**instalation
+**features
+**example
